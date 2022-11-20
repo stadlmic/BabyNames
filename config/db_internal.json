@@ -1,0 +1,9 @@
+{
+  "username":"michal",
+  "password":"reverse12",
+  "pghost":"postgres-app",
+  "pgport":"5432",
+  "pgdatabase":"babynames",
+  "pgschema":"babynames"
+}
+

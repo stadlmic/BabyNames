@@ -1,0 +1,8 @@
+{
+
+"kaggle_config_dir": "/opt/airflow/config",
+"data_dir": "/opt/airflow/data",
+"data_dir_landing_raw": "/opt/airflow/data/landing/raw",
+"data_dir_landing_unzip": "/opt/airflow/data/landing/unzip"
+
+}

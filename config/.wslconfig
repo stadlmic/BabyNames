@@ -1,0 +1,3 @@
+[wsl2]
+memory=8GB # Limits VM memory in WSL 2
+processors=6 # Makes the WSL 2 VM use 4 virtual processors
